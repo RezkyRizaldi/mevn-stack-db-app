@@ -1,4 +1,4 @@
-# client
+# MEVN Stack Database Application
 
 ## Project setup
 ```
